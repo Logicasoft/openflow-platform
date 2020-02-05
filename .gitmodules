@@ -1,0 +1,4 @@
+[submodule "Logicasoft/paid_modules"]
+	path = Logicasoft/paid_modules
+	url = git@github.com:Logicasoft/paid_modules.git
+	branch = 13.0
